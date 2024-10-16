@@ -10,17 +10,17 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "923444844060"
+      "value": "923704404893"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ULTRA-MD"
+      "value": "USMAN-MD"
     },
     "DATABASE_URL": {
       "description": "your mongodb or database url",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,27 +30,27 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-90d901d2-e9a3-47ac-b09f-641c8e4778d3"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "noman-nomi"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -60,7 +60,7 @@
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
       "required": false,
-      "value": ""
+      "value": "false"
     }
     },
     "buildpacks": [
